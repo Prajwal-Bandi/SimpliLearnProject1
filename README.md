@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # Cypress_Angular_Project1
 =======
 # AngularLoginReset
@@ -61,3 +62,6 @@ Angular CLI does not come with an end-to-end testing framework by default. You c
 
 For more information on using the Angular CLI, including detailed command references, visit the [Angular CLI Overview and Command Reference](https://angular.dev/tools/cli) page.
 >>>>>>> a3d90e4 (initial commit)
+=======
+# SimpliLearnProject1
+>>>>>>> 625bceb7b92d3678cfd73f46df026e78d77f6ae2
